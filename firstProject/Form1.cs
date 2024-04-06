@@ -19,7 +19,7 @@ namespace firstProject
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string istenilenMail = "busraoral@gmail.com"; 
+            string istenilenMail = "bsrtk@gmail.com"; 
             string mail=mailTextbox.Text;
 
             if(istenilenMail == mail)
